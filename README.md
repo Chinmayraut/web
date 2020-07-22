@@ -1,4 +1,4 @@
-# Appicodes Company Website Code
+# Website Code
 
 #### Frameworks & Sources Used
 * jQuery
