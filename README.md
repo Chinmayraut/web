@@ -5,5 +5,5 @@
 * Animate.css
 * Preload.js
 
-#### Use As You Like, Give Credit if You Can!
+
 
